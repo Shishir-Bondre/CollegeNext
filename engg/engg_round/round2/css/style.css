@@ -1,0 +1,73 @@
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: font;
+	src:url('../fonts/MicroExtendFLF.ttf');
+
+}
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: font2;
+	src:url('../fonts/TitilliumWeb-Light.ttf');
+
+}
+
+
+
+
+
+.a1{
+	margin-left:10px;
+
+font-weight:700;
+padding-top:5%;
+font-family:font; 
+
+}
+.a2{
+padding-top:5%;
+font-size:30px;
+font-weight:700;
+font-family:font; 
+}
+.a3{
+font-size:20px;
+font-family:font;
+font-weight:500;
+}
+.a4{
+
+font-family:font;
+
+}
+.a7{
+font-weight:500;
+font-family:font;
+font-size:15px;
+}
+.a6{
+font-size:20px;
+font-family:font;
+font-weight:700;
+}
+.b1{
+font-size:20px;
+font-weight:500;
+font-family:font2;
+
+}
+.b2{
+font-size:30px;
+font-weight:500;
+font-family:font2;
+
+}
+.b3{
+font-size:23px;
+font-weight:500;
+font-family:font2;
+
+}
+
+
